@@ -1,9 +1,9 @@
-# EShop-AllModules-overview-V1
+# EShop-AllModules-overview-v0.0
 This project aims at unifying and providing all-in-one shipping, inventory management, and platform for e-commerce merchants, sellers and customers. E-commerce sellers can ship fast,access the best shipping rates, and increase orders with a suite of online tools provided by various modules of this project. Its rich features include shopping, selling and shipping integration while managing everything in one place. The web application is easy to use and has intuitive features for a great user experience. The design is highly scalable and flexible to meet the below mentioned business requirements. 
 
 ## Business requirements
 ### Seller side
-- Register
+- Registration
 - Login
 - Dashboard
 - Posted Products
@@ -49,7 +49,7 @@ This project aims at unifying and providing all-in-one shipping, inventory manag
 (tentative)  
 <img src ="images/storediagram.gif" width="800">
 
-## Technologies
+## Technologies-v0.0
 ### Front-End
 #### Overview
 - JSP & Custom Tags  
