@@ -1,8 +1,8 @@
 # ecommerce-site
 Description:  
 
-# End User pages
-## Seller side
+## End User pages
+### Seller side
 
 - Register
 - Login
@@ -10,7 +10,7 @@ Description:
 - Posted Products
 
 
-## Customer side 
+### Customer side 
 
 - Register
 - Save Cart in Session 
@@ -22,18 +22,18 @@ Description:
 - View Posted products
 - Search Filters for items
 
-# Database schema:
+## Database schema:
 
 
-# Technologies
-## Front-End
-### Overview
+## Technologies
+### Front-End
+#### Overview
 - JSP - Custom Tags  
 - HTML  
 - CSS
 
-## Back-End
-### Overview
+### Back-End
+#### Overview
 - Server: Tomcat
 - Connector: JDBC
 - Database: MySQL
