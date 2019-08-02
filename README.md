@@ -23,7 +23,7 @@ Description:
 - Search Filters for items
 
 ## Database schema:
-
+<img src ="images/storediagram.gif" width="700">
 
 ## Technologies
 ### Front-End
